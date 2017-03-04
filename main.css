@@ -1,0 +1,19 @@
+#spinner {
+	position: relative;
+	background-image: url('images/background.png');
+	width: 1000px;
+	height: 724px;
+	margin: 20px auto;
+}
+
+#rocket {
+	position: absolute;
+	background-image: url('images/spinner.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 400px;
+	height: 400px;
+
+	top: 162px;
+	left: 300px;
+}
